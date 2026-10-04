@@ -1,2 +1,1 @@
-// Add official token details here once announced.
-window.HOOD_CONFIG = {contract:'', dexscreenerPairUrl:'', uniswapUrl:'https://app.uniswap.org/', xUrl:'https://x.com/'};
+window.HOOD_CONFIG = {contract:'0xcomingsoon', dexscreenerPairUrl:'https://dexscreener.com/robinhood/0xcomingsoon', uniswapUrl:'https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xcomingsoon', xUrl:'https://x.com/HoodInu_RH'};
